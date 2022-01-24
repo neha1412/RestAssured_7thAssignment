@@ -1,4 +1,4 @@
-# RestAssured_6TH Assignment
-Rest API 6th Assignment
-Assignment to add negative Tests
+# RestAssured_7TH Assignment
+Rest API 7th Assignment
+Assignment to TestNG annotations and UUID concepts
 
